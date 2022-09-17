@@ -7,5 +7,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git)
 
 Foloow me
