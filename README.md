@@ -1,7 +1,9 @@
 ![header](<https://github.com/alexparakhin/alexparakhin/blob/main/assets/black%20(1).jpg>)
 
-About me
+## I'm a beginner Front-end web developer 😄
 
-Languages and tools
+## Languages and tools
+
+![JS](https://img.shields.io/badge/-JavaScript-greenyellow)
 
 Foloow me
