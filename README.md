@@ -4,6 +4,6 @@
 
 ## Languages and tools
 
-![JS](https://img.shields.io/badge/-JavaScript-greenyellow)
+![JS]https://img.shields.io/badge/-JavaScript-greenyellow?style=for-the-badge&logo=appveyor
 
 Foloow me
