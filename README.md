@@ -13,5 +13,5 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/alexparakhin)
 
-![Alex P GitHub stats](https://github-readme-stats.vercel.app/api?username=alexparakhin&show_icons=true&theme=dark&card_width300)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexparakhin&layout=compact)
+![Alex P GitHub stats](https://github-readme-stats.vercel.app/api?username=alexparakhin&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexparakhin&layout=compact&card_width=300px)
