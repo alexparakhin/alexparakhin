@@ -9,4 +9,8 @@
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 
-Foloow me
+## About me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/alexparakhin)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexparakhin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
